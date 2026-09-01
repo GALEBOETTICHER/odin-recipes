@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* outline: 2px solid red; */
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.title {
+    justify-content: center;
+    display: flex;
+}
+
